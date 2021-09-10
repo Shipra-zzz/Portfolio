@@ -16,7 +16,7 @@
    font-weight: 400;
    text-align: center;
    letter-spacing: 5px;
-   border-bottom: 2px solid black;
+   border-bottom: 2px solid rgb(0, 0, 0);
 
    @include mq(small) {
       width: 50%;
@@ -31,7 +31,7 @@
    flex-direction: row;
    justify-content: center;
    align-items: center;
-   background-color: #eee5e5;
+   background-color: #869895;
    margin-bottom: 20px;
 
 
